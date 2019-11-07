@@ -1,7 +1,7 @@
 # SmartHome
 
 
-
+# Week 7: October 31st - Build the beard board
 
 # Week5:October 3rd - Proof of purchase[Purchase](https://github.com/HoangPhuc1999/SmartHome/blob/master/Documentation/ProofofPurchase.docx)
 
