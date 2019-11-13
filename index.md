@@ -7,7 +7,8 @@
 
 # Week 7: October 31st - Design the PCB
 <image src="Electronic file/Untitled Sketch 8_bb.png>"/>
-![Alt text](Electronic file/Untitled Sketch 8_bb.png?raw=true "Title")
+<img src ="Untitled Sketch 8_bb.png" alt="image of connected hcr-s04"><br>
+
 
 
 # Week5:October 3rd - Proof of purchase[Purchase](https://github.com/HoangPhuc1999/SmartHome/blob/master/Documentation/ProofofPurchase.docx)
