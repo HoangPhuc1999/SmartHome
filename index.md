@@ -8,6 +8,8 @@
 # Week 7: October 31st - Design the PCB
 
 <img src ="Electronic file/Untitled Sketch 8_bb.png" alt="image of connected hcr-s04"><br>
+<img src ="Electronic file/Untitled Sketch 8_pcb.png" alt="image of connected hcr-s04"><br>
+<img src ="Electronic file/Untitled Sketch 8_schem.png" alt="image of connected hcr-s04"><br>
 
 
 
