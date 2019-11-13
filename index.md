@@ -14,6 +14,7 @@
 
 
 # Week5:October 3rd - Proof of purchase[Purchase](https://github.com/HoangPhuc1999/SmartHome/blob/master/Documentation/ProofofPurchase.docx)
+<img src ="Documentation/purchase.png" alt="image of connected hcr-s04"><br>
 
 # Week4:September 26th - Budget due [Budget](https://github.com/HoangPhuc1999/SmartHome/blob/master/Documentation/BudgetDueWeek4.xlsx)
 # Week3:September 19th- Schedule due [schedule](https://github.com/HoangPhuc1999/SmartHome/blob/master/Documentation/smartDenGantt%20(1).mpp)
