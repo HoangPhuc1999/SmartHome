@@ -3,15 +3,15 @@
 
 
 
-# Week 8: November 8th
+# Week 8: October 31st - Build the beard board
+<img src ="Documentation/75224803_2410524542330256_5928540394588471296_n.jpg" alt="image of connected hcr-s04"><br>
 
-# Week 7: October 31st - Design the PCB
+
+# Week 7: October 24th - Design the PCB
 
 <img src ="Electronic file/Untitled Sketch 8_bb.png" alt="image of connected hcr-s04"><br>
 <img src ="Electronic file/Untitled Sketch 8_pcb.png" alt="image of connected hcr-s04"><br>
 <img src ="Electronic file/Untitled Sketch 8_schem.png" alt="image of connected hcr-s04"><br>
-
-
 
 # Week5:October 3rd - Proof of purchase[Purchase](https://github.com/HoangPhuc1999/SmartHome/blob/master/Documentation/ProofofPurchase.docx)
 <img src ="Documentation/purchase.png" alt="image of connected hcr-s04"><br>
