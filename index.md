@@ -6,6 +6,7 @@
 # Week 8: November 8th
 
 # Week 7: October 31st - Design the PCB
+<image src="Electronic file/Untitled Sketch 8_bb.png>"/>
 
 
 # Week5:October 3rd - Proof of purchase[Purchase](https://github.com/HoangPhuc1999/SmartHome/blob/master/Documentation/ProofofPurchase.docx)
