@@ -1,7 +1,12 @@
 # SmartHome
 
 
-# Week 7: October 31st - Build the beard board
+
+
+# Week 8: November 8th
+
+# Week 7: October 31st - Design the PCB
+<img src ="untitle Sketch 8_schem.png" alt="image of connected hcr-s04"><br>
 
 # Week5:October 3rd - Proof of purchase[Purchase](https://github.com/HoangPhuc1999/SmartHome/blob/master/Documentation/ProofofPurchase.docx)
 
