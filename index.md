@@ -1,7 +1,8 @@
 # SmartHome
 
 
-
+# Week 11: November 21st - finish the case
+<img src ="Documentation/project_Case.jpg" alt="image of connected hcr-s04"><br>
 
 # Week 8: October 31st - Build the beard board
 <img src ="Documentation/75224803_2410524542330256_5928540394588471296_n.jpg" alt="image of connected hcr-s04"><br>
