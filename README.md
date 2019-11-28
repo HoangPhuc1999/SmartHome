@@ -1,6 +1,8 @@
 
-# ULN2003APG Driver and Stepper Motor 
+# ABOUT THIS PROJECT
 
+
+Hello everyone, my name is Phuc Hoang Nguyen, student of Computer Engineering Technology from Humber College.<br>
 If you want to build a project to control Stepper Motor with ULN2003APG driver, this is a step by step blog to help you achieve that.
 
 <img src ="Documentation/Project picture/pcb_complete.jpg" alt="image of connected hcr-s04"><br>
@@ -28,13 +30,26 @@ It is better to buy the whole arduino kit on amazon, as the kit will have all th
 
 Link to buy the arduino kit :(https://www.amazon.ca/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/ref=sr_1_1_sspa?crid=2DVN7H6ZQLWPG&keywords=arduino+kit&qid=1574921884&sprefix=arduino+k%2Caps%2C145&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTUVOUEhHNEhDTUZQJmVuY3J5cHRlZElkPUEwOTc2NjcxQVRIUzQyVFBNQUg3JmVuY3J5cHRlZEFkSWQ9QTA3NjA2NDQxMFhPMlJCUkVSSlRJJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
-The shipping time will aproximately 2 bussiness days.
+So instead of waiting months for your components to arrive if you purchase through China company, the shipping time will aproximately 2 bussiness days through amazon. 
 
+# SOFTWARE
+
+https://www.arduino.cc/en/Main/Software
 
 # NECESSARY TOOLS AND MACHINES
 
 Soldering iron gun<br>
-Documentation/Project picture/solder.jpg
 
 <img src ="Documentation/Project picture/solder.jpg" >
+
+
+# Wiring - Connecting the Driver with the Arduino and the motor 
+
+The wiring diagram/schematic below shows you how to connect the ULN2003 driver board to the 28BYJ-48 stepper motor and the Arduino.
+
+<img src ="Documentation/Project picture/Phuc_bb1.jpg" >
+Documentation/Project picture/beard board.jpg
+<img src ="Documentation/Project picture/beard board.jpg">
+
+
 
