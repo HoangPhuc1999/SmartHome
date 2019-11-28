@@ -71,6 +71,8 @@ I use jumper wire with different color to make the connect as the picture above.
  
  <img src ="Documentation/Project picture/Phuc_pcb.png">
  
+ # Basic Arduino example code to control a 28BYJ-48 stepper motor
+ <img src ="Documentation/Project picture/code.PNG">
  
 
 
