@@ -3,7 +3,7 @@
 
 
 Hello everyone, my name is Phuc Hoang Nguyen, student of Computer Engineering Technology from Humber College.<br>
-If you want to build a project to control Stepper Motor with ULN2003APG driver, this is a step by step blog to help you achieve that.
+If you want to build a project to control 28BYJ-48 Stepper Motor with ULN2003APG driver, this is a step by step blog to help you achieve that.
 
 <img src ="Documentation/Project picture/pcb_complete.jpg" alt="image of connected hcr-s04"><br>
 
@@ -11,7 +11,7 @@ If you want to build a project to control Stepper Motor with ULN2003APG driver, 
 
 # COMPONENTS AND SUPPLIES
 
-Stepper Motor<br>
+28BYJ-48 Stepper Motor<br>
 
 <img src ="Documentation/Stepper_Motor_obl_600__73570.1448057593.1280.1280.png" alt="image of connected hcr-s04"><br>
 
@@ -22,7 +22,7 @@ ULN2003APG Driver<br>
 It is better to buy the whole arduino kit on amazon, as the kit will have all the component needed for the project, this include:<br>
 
 +) uln2003APG<br>
-+) Stepper Motor<br>
++) 28BYJ-48 stepper Motor<br>
 +) Arduino <br>
 +) Beard board<br>
 +) Wire<br>
@@ -51,5 +51,17 @@ The wiring diagram/schematic below shows you how to connect the ULN2003 driver b
 Documentation/Project picture/beard board.jpg
 <img src ="Documentation/Project picture/beard board.jpg">
 
+I use jumper wire with different color to make the connect as the picture above.
 
+# ULN2003 and 28BYJ-48 to Arduino Connections
+
+| ULN2003APG    | Connection     |
+| ------------- | -------------  |
+| IN1           | Pin 11 Arduino |
+| IN2           | Pin  9 Arduino |
+| IN3           | Pin 10 Arduino |
+| IN4           | Pin  8 Arduino |
+| -             | Ground Arduino |
+| +             | 5V Arudino     |
+ 
 
