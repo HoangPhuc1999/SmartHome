@@ -49,7 +49,7 @@ Soldering iron gun<br>
 The wiring diagram/schematic below shows you how to connect the ULN2003 driver board to the 28BYJ-48 stepper motor and the Arduino.
 
 <img src ="Documentation/Project picture/Phuc_bb1.jpg" >
-Documentation/Project picture/beard board.jpg
+
 <img src ="Documentation/Project picture/beard board.jpg">
 
 I use jumper wire with different color to make the connect as the picture above.
