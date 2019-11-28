@@ -35,6 +35,7 @@ So instead of waiting months for your components to arrive if you purchase throu
 # SOFTWARE
 
 https://www.arduino.cc/en/Main/Software
+https://fritzing.org/home/
 
 # NECESSARY TOOLS AND MACHINES
 
@@ -63,5 +64,18 @@ I use jumper wire with different color to make the connect as the picture above.
 | IN4           | Pin  8 Arduino |
 | -             | Ground Arduino |
 | +             | 5V Arudino     |
+
+# PCB Design
+ 
+ I use fritzing software to design my PCB, here is my final design
+ 
+ <img src ="Documentation/Project picture/Phuc_pcb.png">
+ 
+ 
+
+
+
+
+
  
 
