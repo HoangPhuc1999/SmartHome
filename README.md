@@ -34,7 +34,7 @@ So instead of waiting months for your components to arrive if you purchase throu
 
 # SOFTWARE
 
-https://www.arduino.cc/en/Main/Software
+https://www.arduino.cc/en/Main/Software <br>
 https://fritzing.org/home/
 
 # NECESSARY TOOLS AND MACHINES
