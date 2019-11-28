@@ -5,7 +5,7 @@
 Hello everyone, my name is Phuc Hoang Nguyen, student of Computer Engineering Technology from Humber College.<br>
 If you want to build a project to control 28BYJ-48 Stepper Motor with ULN2003APG driver, this is a step by step blog to help you achieve that.
 
-<img src ="Documentation/Project picture/pcb_complete.jpg" alt="image of connected hcr-s04"><br>
+<img src ="Documentation/Project picture/demo.jpg"><br>
 
 
 
