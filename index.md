@@ -14,7 +14,18 @@ Status update:
 
 
 # Week 11: November 21st - finish the case
+
+Financial update:
+- I am manage to cut down the budget of the project to $40 buy excluding the blutooth chip out of the project
+- PCB is made free
+- The case is also made free
+
 <img src ="Documentation/project_Case.jpg" alt="image of connected hcr-s04"><br>
+
+# Week 10 - 14th Nov, 2019 - PCB Powered Up 
+
+
+
 
 # Week 8: October 31st - Build the beard board
 <img src ="Documentation/75224803_2410524542330256_5928540394588471296_n.jpg" alt="image of connected hcr-s04"><br>
