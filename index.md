@@ -28,6 +28,9 @@ Status update:
 - This is the new version of my PCB
 <img src ="Documentation/Project picture/Phuc_pcb.png">
 
+# Week 9:  7th Nov, 2019 - PCB Soldered
+
+<img src ="Documentation/Project picture/pcb_old.jpg">
 
 
 
