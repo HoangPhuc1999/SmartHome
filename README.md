@@ -29,7 +29,7 @@ It is better to buy the whole arduino kit on amazon, as the kit will have all th
 +) Jumper Wire<br>
 
  At the same time, you should also order/made your PCB, the Gerber file to build the PCB is down below:
-- Gerber export file [here](https://github.com/HoangPhuc1999/SmartHome/tree/master/Documentation/GERBER)
+- Gerber export file [here](https://github.com/HoangPhuc1999/SmartHome/tree/master/Documentation/GERBER)<br>
 And if you are the one who wants a case for your project, here is a simple case design:
 - Case design file [here](https://github.com/HoangPhuc1999/SmartHome/tree/master/Documentation/case)
 
