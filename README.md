@@ -28,13 +28,19 @@ It is better to buy the whole arduino kit on amazon, as the kit will have all th
 +) Wire<br>
 +) Jumper Wire<br>
 
+ At the same time, you should also order/made your PCB, the Gerber file to build the PCB is down below:
+- Gerber export file [here](https://github.com/HoangPhuc1999/SmartHome/tree/master/Documentation/GERBER)
+And if you are the one who wants a case for your project, here is a simple case design:
+- Case design file [here](https://github.com/HoangPhuc1999/SmartHome/tree/master/Documentation/case)
+
+
 Link to buy the [arduino kit](https://www.amazon.ca/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/ref=sr_1_1_sspa?crid=2DVN7H6ZQLWPG&keywords=arduino+kit&qid=1574921884&sprefix=arduino+k%2Caps%2C145&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTUVOUEhHNEhDTUZQJmVuY3J5cHRlZElkPUEwOTc2NjcxQVRIUzQyVFBNQUg3JmVuY3J5cHRlZEFkSWQ9QTA3NjA2NDQxMFhPMlJCUkVSSlRJJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 So instead of waiting months for your components to arrive if you purchase through China company, the shipping time will aproximately 2 bussiness days through amazon. 
 
 # SOFTWARE
-I use [arduino.ide] (https://www.arduino.cc/en/Main/Software) to write code and upload code to the arduino  <br>
-https://fritzing.org/home/
+I use [Arduino IDE](https://www.arduino.cc/en/Main/Software) to write code and upload code to the arduino  <br>
+[Fritzing] (https://fritzing.org/home/) to design the PCB.
 
 # NECESSARY TOOLS AND MACHINES
 
