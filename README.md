@@ -67,12 +67,14 @@ I use jumper wire with different color to make the connect as the picture above.
 
 # PCB Design
  
- I use fritzing software to design my PCB, here is my final design
+ I use fritzing software to design my PCB, here is my final design. You should definately get the PCB made as soon as possible because it takes around 3~4 days to finish. 
  
  <img src ="Documentation/Project picture/Phuc_pcb.png">
  
+ Gerber export file.
  
- <img src =" Documentation/Project picture/PCB_1.jpg">
+ 
+ <img src ="Documentation/Project picture/PCB_1.jpg">
 
  
  # Basic Arduino example code to control a 28BYJ-48 stepper motor
