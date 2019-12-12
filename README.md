@@ -33,8 +33,7 @@ Link to buy the [arduino kit](https://www.amazon.ca/Elegoo-Project-Starter-Tutor
 So instead of waiting months for your components to arrive if you purchase through China company, the shipping time will aproximately 2 bussiness days through amazon. 
 
 # SOFTWARE
-
-https://www.arduino.cc/en/Main/Software <br>
+I use [arduino.ide] (https://www.arduino.cc/en/Main/Software) to write code and upload code to the arduino  <br>
 https://fritzing.org/home/
 
 # NECESSARY TOOLS AND MACHINES
