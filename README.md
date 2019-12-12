@@ -71,14 +71,23 @@ I use jumper wire with different color to make the connect as the picture above.
  
  <img src ="Documentation/Project picture/Phuc_pcb.png">
  
- Gerber export file[here](https://github.com/HoangPhuc1999/SmartHome/tree/master/Documentation/GERBER)
+ Gerber export file [here](https://github.com/HoangPhuc1999/SmartHome/tree/master/Documentation/GERBER)
+ # Solder Precaution: 
+-For those who are beginners in solder, it is recommended to have more than one PCB made for this project. Set the solder Pen no hotter than 350F
+-Never touch the element or tip of the soldering iron. They are very hot (about 400°C) and will burn.
+-Hold wires to be heated with tweezers or clamps.
+-Keep the cleaning sponge wet during use.
+-Always return the soldering iron to its stand when not in use. Never put it down on your workbench.
+Turn unit off or unplug it when not in use.
  
+ # Solder the PCB
  
  <img src ="Documentation/Project picture/PCB_1.jpg">
 
- 
  # Basic Arduino example code to control a 28BYJ-48 stepper motor
  <img src ="Documentation/Project picture/code.PNG">
+ 
+ 
  
 
 
