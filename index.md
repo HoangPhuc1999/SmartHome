@@ -23,6 +23,10 @@ Financial update:
 <img src ="Documentation/project_Case.jpg" alt="image of connected hcr-s04"><br>
 
 # Week 10 - 14th Nov, 2019 - PCB Powered Up 
+Status update:
+- I decided to upgrade my pcb because the old pbc doesn't have connection for ground and 5V power line
+- This is the new version of my PCB
+<img src ="Documentation/Project picture/Phuc_pcb.png">
 
 
 
