@@ -1,7 +1,12 @@
 # SmartHome
 
 # Week 14: December 10th - Build Instruction Due
-Status update: ReadMe.md is complete
+Status update:
+- ReadMe.md is complete
+- Assemble the new case with the newest PCb
+
+<img src ="Documentation/Project picture/pcb_complete.jpg">
+ 
 
 # Week 13: December 5th - Presentation Day
 # Week 12: November 28th - Presentation Due
