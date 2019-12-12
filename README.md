@@ -71,8 +71,7 @@ I use jumper wire with different color to make the connect as the picture above.
  
  <img src ="Documentation/Project picture/Phuc_pcb.png">
  
- Gerber export file : [Gerber file]
- (https://github.com/HoangPhuc1999/SmartHome/tree/master/Documentation/GERBER)
+ Gerber export file[here](https://github.com/HoangPhuc1999/SmartHome/tree/master/Documentation/GERBER)
  
  
  <img src ="Documentation/Project picture/PCB_1.jpg">
