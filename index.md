@@ -1,5 +1,17 @@
 # SmartHome
 
+# Week 14: December 10th - Build Instruction Due
+Status update: ReadMe.md is complete
+
+# Week 13: December 5th - Presentation Day
+# Week 12: November 28th - Presentation Due
+Status update:
+- finish assemble and glue the case. <br>
+- Solder the newest version of PCB. <br>
+
+ <img src ="Documentation/Project picture/PCB_1.jpg">
+
+
 
 # Week 11: November 21st - finish the case
 <img src ="Documentation/project_Case.jpg" alt="image of connected hcr-s04"><br>
