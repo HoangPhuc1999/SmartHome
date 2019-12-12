@@ -92,6 +92,27 @@ Turn unit off or unplug it when not in use.<br>
  # Basic Arduino example code to control a 28BYJ-48 stepper motor
  <img src ="Documentation/Project picture/code.PNG">
  
+ This example code will rotates the motor continuosly until you unplug the arduino.
+ 
+ # Unit test
+ 
+ - STEP 1: CHECK THE ARDUINO<br>
+ Before using the PCB, make sure you test the motor and arduino seperately. Connect the arduino to the laptop and run example code first to make sure the arduino is fine.
+  
+ <img src ="Documentation/Project picture/test.png">
+ 
+
+ If the led in the arduino blinks, that arduino should be good.<br>
+- STEP 2: CHECK THE MOTOR<br>
+ After that, you should check the motor by connect it directly to the arduino using wires. Run the example code for the stepper moter, if the motor rotates continously, it should be good. <br>
+ - STEP 3: CHECK THE PCB
+  Lastly, after soldering the PCB, make sure that every contact is properly seal, all the via connection is being connect.
+ 
+ 
+ 
+ 
+ 
+ 
 
  
  
